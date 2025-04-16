@@ -3,6 +3,8 @@ pioneer;　https://mtkbirdman.com/unity-gamesystem
 pioneer;　https://machinemaker.hatenablog.com/
 terrain;  https://www.kashmir3d.com/srtm/srtm30/
 
+githubはROMっていたが、とりあえず投稿して仕様を掴んでいく
+
 ダウンロードzipでZipファイルをダウンロード
 SimFile-mainを解凍
 解凍されたSimFile-mainの中身(5種類のzipファイル)を解凍.....(A)
